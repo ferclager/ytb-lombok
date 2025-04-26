@@ -1,0 +1,552 @@
+[
+  {
+    "title": "Don Quijote de la Mancha",
+    "yearPublished": 1605,
+    "genre": "Novela",
+    "author": {
+      "name": "Miguel",
+      "surname": "de Cervantes Saavedra",
+      "countryOfBirth": "ESP",
+      "alive": false
+    }
+  },
+  {
+    "title": "Cien años de soledad",
+    "yearPublished": 1967,
+    "genre": "Novela",
+    "author": {
+      "name": "Gabriel",
+      "surname": "García Márquez",
+      "countryOfBirth": "COL",
+      "alive": false
+    }
+  },
+  {
+    "title": "La casa de los espíritus",
+    "yearPublished": 1982,
+    "genre": "Novela",
+    "author": {
+      "name": "Isabel",
+      "surname": "Allende",
+      "countryOfBirth": "CHL",
+      "alive": true
+    }
+  },
+  {
+    "title": "Rayuela",
+    "yearPublished": 1963,
+    "genre": "Novela",
+    "author": {
+      "name": "Julio",
+      "surname": "Cortázar",
+      "countryOfBirth": "ARG",
+      "alive": false
+    }
+  },
+  {
+    "title": "El túnel",
+    "yearPublished": 1948,
+    "genre": "Novela",
+    "author": {
+      "name": "Ernesto",
+      "surname": "Sábato",
+      "countryOfBirth": "ARG",
+      "alive": false
+    }
+  },
+  {
+    "title": "Pedro Páramo",
+    "yearPublished": 1955,
+    "genre": "Novela",
+    "author": {
+      "name": "Juan",
+      "surname": "Rulfo",
+      "countryOfBirth": "MEX",
+      "alive": false
+    }
+  },
+  {
+    "title": "Fervor de Buenos Aires",
+    "yearPublished": 1923,
+    "genre": "Poesía",
+    "author": {
+      "name": "Jorge Luis",
+      "surname": "Borges",
+      "countryOfBirth": "ARG",
+      "alive": false
+    }
+  },
+  {
+    "title": "Bodas de sangre",
+    "yearPublished": 1933,
+    "genre": "Teatro",
+    "author": {
+      "name": "Federico",
+      "surname": "García Lorca",
+      "countryOfBirth": "ESP",
+      "alive": false
+    }
+  },
+  {
+    "title": "La ciudad y los perros",
+    "yearPublished": 1963,
+    "genre": "Novela",
+    "author": {
+      "name": "Mario",
+      "surname": "Vargas Llosa",
+      "countryOfBirth": "PER",
+      "alive": true
+    }
+  },
+  {
+    "title": "Aura",
+    "yearPublished": 1962,
+    "genre": "Novela",
+    "author": {
+      "name": "Carlos",
+      "surname": "Fuentes",
+      "countryOfBirth": "MEX",
+      "alive": false
+    }
+  },
+  {
+    "title": "La sombra del viento",
+    "yearPublished": 2001,
+    "genre": "Novela",
+    "author": {
+      "name": "Carlos",
+      "surname": "Ruiz Zafón",
+      "countryOfBirth": "ESP",
+      "alive": false
+    }
+  },
+  {
+    "title": "El Aleph",
+    "yearPublished": 1949,
+    "genre": "Cuento",
+    "author": {
+      "name": "Jorge Luis",
+      "surname": "Borges",
+      "countryOfBirth": "ARG",
+      "alive": false
+    }
+  },
+  {
+    "title": "Confieso que he vivido",
+    "yearPublished": 1974,
+    "genre": "Autobiografía",
+    "author": {
+      "name": "Pablo",
+      "surname": "Neruda",
+      "countryOfBirth": "CHL",
+      "alive": false
+    }
+  },
+  {
+    "title": "Doce cuentos peregrinos",
+    "yearPublished": 1992,
+    "genre": "Cuento",
+    "author": {
+      "name": "Gabriel",
+      "surname": "García Márquez",
+      "countryOfBirth": "COL",
+      "alive": false
+    }
+  },
+  {
+    "title": "La tregua",
+    "yearPublished": 1960,
+    "genre": "Novela",
+    "author": {
+      "name": "Mario",
+      "surname": "Benedetti",
+      "countryOfBirth": "URY",
+      "alive": false
+    }
+  },
+  {
+    "title": "Los pasos perdidos",
+    "yearPublished": 1953,
+    "genre": "Novela",
+    "author": {
+      "name": "Alejo",
+      "surname": "Carpentier",
+      "countryOfBirth": "CUB",
+      "alive": false
+    }
+  },
+  {
+    "title": "Santa Evita",
+    "yearPublished": 1995,
+    "genre": "Novela",
+    "author": {
+      "name": "Tomás",
+      "surname": "Eloy Martínez",
+      "countryOfBirth": "ARG",
+      "alive": false
+    }
+  },
+  {
+    "title": "Sub terra",
+    "yearPublished": 1904,
+    "genre": "Cuento",
+    "author": {
+      "name": "Baldomero",
+      "surname": "Lillo",
+      "countryOfBirth": "CHL",
+      "alive": false
+    }
+  },
+  {
+    "title": "El amor en los tiempos del cólera",
+    "yearPublished": 1985,
+    "genre": "Novela",
+    "author": {
+      "name": "Gabriel",
+      "surname": "García Márquez",
+      "countryOfBirth": "COL",
+      "alive": false
+    }
+  },
+  {
+    "title": "Niebla",
+    "yearPublished": 1914,
+    "genre": "Novela",
+    "author": {
+      "name": "Miguel",
+      "surname": "de Unamuno",
+      "countryOfBirth": "ESP",
+      "alive": false
+    }
+  },
+  {
+    "title": "Hombres de maíz",
+    "yearPublished": 1949,
+    "genre": "Novela",
+    "author": {
+      "name": "Miguel Ángel",
+      "surname": "Asturias",
+      "countryOfBirth": "GTM",
+      "alive": false
+    }
+  },
+  {
+    "title": "Los detectives salvajes",
+    "yearPublished": 1998,
+    "genre": "Novela",
+    "author": {
+      "name": "Roberto",
+      "surname": "Bolaño",
+      "countryOfBirth": "CHL",
+      "alive": false
+    }
+  },
+  {
+    "title": "Rayuela",
+    "yearPublished": 1963,
+    "genre": "Novela",
+    "author": {
+      "name": "Julio",
+      "surname": "Cortázar",
+      "countryOfBirth": "ARG",
+      "alive": false
+    }
+  },
+  {
+    "title": "El túnel",
+    "yearPublished": 1948,
+    "genre": "Novela",
+    "author": {
+      "name": "Ernesto",
+      "surname": "Sábato",
+      "countryOfBirth": "ARG",
+      "alive": false
+    }
+  },
+  {
+    "title": "Pedro Páramo",
+    "yearPublished": 1955,
+    "genre": "Novela",
+    "author": {
+      "name": "Juan",
+      "surname": "Rulfo",
+      "countryOfBirth": "MEX",
+      "alive": false
+    }
+  },
+  {
+    "title": "Fervor de Buenos Aires",
+    "yearPublished": 1923,
+    "genre": "Poesía",
+    "author": {
+      "name": "Jorge Luis",
+      "surname": "Borges",
+      "countryOfBirth": "ARG",
+      "alive": false
+    }
+  },
+  {
+    "title": "Bodas de sangre",
+    "yearPublished": 1933,
+    "genre": "Teatro",
+    "author": {
+      "name": "Federico",
+      "surname": "García Lorca",
+      "countryOfBirth": "ESP",
+      "alive": false
+    }
+  },
+  {
+    "title": "La ciudad y los perros",
+    "yearPublished": 1963,
+    "genre": "Novela",
+    "author": {
+      "name": "Mario",
+      "surname": "Vargas Llosa",
+      "countryOfBirth": "PER",
+      "alive": true
+    }
+  },
+  {
+    "title": "Aura",
+    "yearPublished": 1962,
+    "genre": "Novela",
+    "author": {
+      "name": "Carlos",
+      "surname": "Fuentes",
+      "countryOfBirth": "MEX",
+      "alive": false
+    }
+  },
+  {
+    "title": "La sombra del viento",
+    "yearPublished": 2001,
+    "genre": "Novela",
+    "author": {
+      "name": "Carlos",
+      "surname": "Ruiz Zafón",
+      "countryOfBirth": "ESP",
+      "alive": false
+    }
+  },
+  {
+    "title": "Conversación en la Catedral",
+    "yearPublished": 1969,
+    "genre": "Novela",
+    "author": {
+      "name": "Mario",
+      "surname": "Vargas Llosa",
+      "countryOfBirth": "PER",
+      "alive": true
+    }
+  },
+  {
+    "title": "El Aleph",
+    "yearPublished": 1949,
+    "genre": "Cuento",
+    "author": {
+      "name": "Jorge Luis",
+      "surname": "Borges",
+      "countryOfBirth": "ARG",
+      "alive": false
+    }
+  },
+  {
+    "title": "La casa verde",
+    "yearPublished": 1966,
+    "genre": "Novela",
+    "author": {
+      "name": "Mario",
+      "surname": "Vargas Llosa",
+      "countryOfBirth": "PER",
+      "alive": true
+    }
+  },
+  {
+    "title": "Sobre héroes y tumbas",
+    "yearPublished": 1961,
+    "genre": "Novela",
+    "author": {
+      "name": "Ernesto",
+      "surname": "Sábato",
+      "countryOfBirth": "ARG",
+      "alive": false
+    }
+  },
+  {
+    "title": "Antología poética",
+    "yearPublished": 1972,
+    "genre": "Poesía",
+    "author": {
+      "name": "Pablo",
+      "surname": "Neruda",
+      "countryOfBirth": "CHL",
+      "alive": false
+    }
+  },
+  {
+    "title": "El coronel no tiene quien le escriba",
+    "yearPublished": 1961,
+    "genre": "Novela",
+    "author": {
+      "name": "Gabriel",
+      "surname": "García Márquez",
+      "countryOfBirth": "COL",
+      "alive": false
+    }
+  },
+  {
+    "title": "Confieso que he vivido",
+    "yearPublished": 1974,
+    "genre": "Autobiografía",
+    "author": {
+      "name": "Pablo",
+      "surname": "Neruda",
+      "countryOfBirth": "CHL",
+      "alive": false
+    }
+  },
+  {
+    "title": "Doce cuentos peregrinos",
+    "yearPublished": 1992,
+    "genre": "Cuento",
+    "author": {
+      "name": "Gabriel",
+      "surname": "García Márquez",
+      "countryOfBirth": "COL",
+      "alive": false
+    }
+  },
+  {
+    "title": "La tregua",
+    "yearPublished": 1960,
+    "genre": "Novela",
+    "author": {
+      "name": "Mario",
+      "surname": "Benedetti",
+      "countryOfBirth": "URY",
+      "alive": false
+    }
+  },
+  {
+    "title": "Los pasos perdidos",
+    "yearPublished": 1953,
+    "genre": "Novela",
+    "author": {
+      "name": "Alejo",
+      "surname": "Carpentier",
+      "countryOfBirth": "CUB",
+      "alive": false
+    }
+  },
+  {
+    "title": "Una lectura fácil",
+    "yearPublished": 2018,
+    "genre": "Novela",
+    "author": {
+      "name": "Cristina",
+      "surname": "Morales",
+      "countryOfBirth": "ESP",
+      "alive": true
+    }
+  },
+  {
+    "title": "Santa Evita",
+    "yearPublished": 1995,
+    "genre": "Novela",
+    "author": {
+      "name": "Tomás",
+      "surname": "Eloy Martínez",
+      "countryOfBirth": "ARG",
+      "alive": false
+    }
+  },
+  {
+    "title": "Sub terra",
+    "yearPublished": 1904,
+    "genre": "Cuento",
+    "author": {
+      "name": "Baldomero",
+      "surname": "Lillo",
+      "countryOfBirth": "CHL",
+      "alive": false
+    }
+  },
+  {
+    "title": "El amor en los tiempos del cólera",
+    "yearPublished": 1985,
+    "genre": "Novela",
+    "author": {
+      "name": "Gabriel",
+      "surname": "García Márquez",
+      "countryOfBirth": "COL",
+      "alive": false
+    }
+  },
+  {
+    "title": "Niebla",
+    "yearPublished": 1914,
+    "genre": "Novela",
+    "author": {
+      "name": "Miguel",
+      "surname": "de Unamuno",
+      "countryOfBirth": "ESP",
+      "alive": false
+    }
+  },
+  {
+    "title": "Residencia en la tierra",
+    "yearPublished": 1933,
+    "genre": "Poesía",
+    "author": {
+      "name": "Pablo",
+      "surname": "Neruda",
+      "countryOfBirth": "CHL",
+      "alive": false
+    }
+  },
+  {
+    "title": "Hombres de maíz",
+    "yearPublished": 1949,
+    "genre": "Novela",
+    "author": {
+      "name": "Miguel Ángel",
+      "surname": "Asturias",
+      "countryOfBirth": "GTM",
+      "alive": false
+    }
+  },
+  {
+    "title": "Los detectives salvajes",
+    "yearPublished": 1998,
+    "genre": "Novela",
+    "author": {
+      "name": "Roberto",
+      "surname": "Bolaño",
+      "countryOfBirth": "CHL",
+      "alive": false
+    }
+  },
+  {
+    "title": "Terra Nostra",
+    "yearPublished": 1975,
+    "genre": "Novela",
+    "author": {
+      "name": "Carlos",
+      "surname": "Fuentes",
+      "countryOfBirth": "MEX",
+      "alive": false
+    }
+  },
+  {
+    "title": "La colmena",
+    "yearPublished": 1951,
+    "genre": "Novela",
+    "author": {
+      "name": "Camilo José",
+      "surname": "Cela",
+      "countryOfBirth": "ESP",
+      "alive": false
+    }
+  }
+]
