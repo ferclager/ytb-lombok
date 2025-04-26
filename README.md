@@ -25,6 +25,11 @@ Lanzar tests del proyecto, generando un nuevo jar
 ./gradlew clean build
 ```
 
+Branch inicial
+```bash
+git checkout main
+```
+
 Branch resultado final
 ```bash
 git checkout feat/add-lombok
