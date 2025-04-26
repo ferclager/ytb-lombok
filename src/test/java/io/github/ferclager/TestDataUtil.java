@@ -9,22 +9,20 @@ public final class TestDataUtil {
     }
 
     public static Author createTestAuthor() {
-        return Author.builder()
-                .name("Miguel")
-                .surname("de Cervantes")
-                .isAlive(false)
-                .countryOfBirth("ESP")
-                .build();
+        return new Author(
+                "Miguel",
+                "de Cervantes",
+                "ESP",
+                false
+        );
     }
 
     public static Book createTestBook() {
-        return Book.builder()
-                .title("Don Quijote de la Mancha")
-                .genre("Novela").
-                yearPublished(1605)
-                .author(createTestAuthor())
-                .build();
-
+        return new Book(
+                "Don Quijote de la Mancha",
+                "Novela",
+                1605,
+                createTestAuthor());
     }
 }
 

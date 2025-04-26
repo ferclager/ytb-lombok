@@ -2,8 +2,6 @@ package io.github.ferclager;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.github.ferclager.model.Book;
-import lombok.SneakyThrows;
-import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
@@ -13,7 +11,6 @@ import java.util.Arrays;
 import java.util.concurrent.atomic.AtomicInteger;
 
 @SpringBootApplication
-@Slf4j
 public class LombokApplication {
 
     public static void main(String[] args) throws IOException {
@@ -21,8 +18,7 @@ public class LombokApplication {
         getData("data.json");
     }
 
-    @SneakyThrows
-    protected static void getData(String fileName) {
+    protected static void getData(String fileName) throws IllegalArgumentException, IOException {
         if (fileName == null) {
             throw new RuntimeException("File must not be null");
         }
@@ -33,7 +29,7 @@ public class LombokApplication {
         final Book[] books = objectMapper.readValue(booksAuthorsFile, Book[].class);
         final AtomicInteger counter = new AtomicInteger(1);
         Arrays.stream(books).forEach(book ->
-                log.info(counter.getAndIncrement() + ": " + book)
+                System.out.println(counter.getAndIncrement() + ": " + book)
         );
     }
 }
